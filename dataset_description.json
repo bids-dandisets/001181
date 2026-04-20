@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Contains fiber photometry and neurophysiology data associated with 1RF1NS132914-0.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Sylwestrak, Emily"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
